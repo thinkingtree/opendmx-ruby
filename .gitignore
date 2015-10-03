@@ -1,0 +1,6 @@
+.AppleDouble
+*.o
+*.so
+*.gem
+.DS_Store
+Makefile
